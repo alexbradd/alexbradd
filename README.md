@@ -1,7 +1,7 @@
 # About me
 
-Hey there! I’m a Computer Science and Engineering student at Politecnico di Milano,
-Really passionate about open-source software and Linux, especially when it comes to kernel and embedded software development.
+Hey there! I’m a computer nerd really passionate about open-source software
+and Linux, especially when it comes to kernel and embedded software development.
 When I’m not studying, I love tinkering with computers and playing the guitar.
 
 Currently looking for a job, so if I peaked your interest, shoot me an email or a DM.
